@@ -10,7 +10,7 @@ tags:
 
 LLMs are very large and have millions and billions of parameters . So training them or just running them (inference) is a huge challenge for consumer users and also for some companies . To solve this we reduce the *storage* used by every weight of the model. **But how ?**
 
-# <u>Introduction and context :</u>
+# Introduction and context :
 
 Usually a weight is a float that is stored in 32 bits , that what we call a : **fp32** .
 In general every *float* representation is divided in 3 differents parts that contains different number of bit depending on the float format :
