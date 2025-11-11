@@ -25,10 +25,7 @@ For example, consider **BERT-Base**. BERT-Base is a language model that only use
 
 This schema explains everything !
 
-![schemaAdapters](quartz/static/images/adapters.png)
-
-
-During the training we only train the adapter's weights , and the others weights we freeze them .
+![schemaAdapters](adapters.png)During the training we only train the adapter's weights , and the others weights we freeze them .
 Let's take a quick example :
 
 - Let's considere a matrix with the following size (we skip the batch dimension) :
@@ -175,8 +172,7 @@ Below is a summary based on the official paper.
 
   
 
-![image.png](/quartz/static/images/comp.png)
-## Conclusion :
+![image.png](comp.png)## Conclusion :
 
 Use LoRa for fine-tuning tasks !!!
 
