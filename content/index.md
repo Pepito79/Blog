@@ -13,8 +13,7 @@ This is my little corner of the internet where I share my projects, ideas, and r
 ## What you’ll find here
 
 - **[AI & Deep Learning](./AI%20&%20Deep%20Learning/)** – Projects, tutorials, and experiments with neural networks, LLMs, and more.  
-- **[Robotics](./robotics)** – Just getting started here! 
-- **[Startups & Buisness](./Startups%20&%20Buisness)** –  Ideas, lessons, and ressources from my experience and what I'am trying to do.  
+- **[Fullstack-Posts](SaadGBlog/content/Fullstack-stuff)**- Som
 
 Feel free to explore, connect with me on GitHub, x, or wherever you hang out online.  
 
