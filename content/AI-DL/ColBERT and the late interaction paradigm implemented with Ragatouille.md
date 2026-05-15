@@ -47,7 +47,6 @@ This filtering is meant to reduce the number of embeddings per document.
 
 Here is a quick recap of the steps:
 
-  
 
 ![image.png](recapBert.png)
 
@@ -138,7 +137,6 @@ The retrieval process for the end-to-end retriever has two main steps:
 
 Here is some benchmarks from the official paper that compares ColBERT model to other re-rerankers and retrieves
 
-  
 
 ![image-2.png](marco10.png)
 
@@ -396,7 +394,7 @@ For applications requiring a RAG foundation that is **fast, scalable, and mainta
 
 
 Here is the github link of the project :
-
+	 
 https://github.com/Pepito79/Colbert-and-late-interaction-with-ragatouille
 
 And here we are , this is the end of this post , I hope you enjoyed It and learned something new .  
